@@ -1,13 +1,3 @@
 # Design
-
-## High Level Design 
-
---- TBD Structural and Behavioural Diagram
-![HighLevelStructuralDiagram](Link to Pic)
-![HighLevelBehaviouralDiagram](Link to Pic)
-
-## Low Level Design 
-
---- TBD Structural and Behavioural Diagram
-![FeaturesLevelStructuralDiagram](Link to Pic)
-![FeaturesBehaviouralDiagram](Link to Pic)
+## Activity Diagram :
+![ActivityDiagram](https://github.com/PavanKummarikuntla/stepin_bookcricket/blob/fd71077b2e1ba071e5c02a8038fdc9f57f6477ff/6_ImagesAndVideos/flowchart.png)
