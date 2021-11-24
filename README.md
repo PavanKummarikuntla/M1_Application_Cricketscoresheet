@@ -4,6 +4,11 @@ MINI PROJECT ON BOOK_CRICKET
 
 ![Capture](https://github.com/pavankalyanmedishetty/stepin_bookcricket/blob/37f8c6ce7ad83105ff7583f4f18c49c49d0820a7/6_ImagesAndVideos/bookcricket.jpg)
 
+
+
+## Badges
+[Code Quality Score](https://api.codiga.io/project/29918/score/svg)
+
 ## Folder Structure
 Folder                   | Description
 -------------------------| -----------------------------------------
