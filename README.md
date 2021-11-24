@@ -1,4 +1,4 @@
-# stepin_bookcricket
+# Bookcricket
 ##MINI PROJECT ON BOOK_CRICKET
 
 
