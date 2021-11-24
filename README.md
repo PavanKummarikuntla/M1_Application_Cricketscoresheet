@@ -7,7 +7,7 @@ MINI PROJECT ON BOOK_CRICKET
 
 
 ## Badges
-[Code Quality Score](https://api.codiga.io/project/29918/score/svg)
+![Code Quality Score](https://api.codiga.io/project/29918/score/svg)
 
 ## Folder Structure
 Folder                   | Description
