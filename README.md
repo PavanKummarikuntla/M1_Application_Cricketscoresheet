@@ -10,6 +10,7 @@ MINI PROJECT ON BOOK_CRICKET
 ![Code Quality Score](https://api.codiga.io/project/29918/score/svg)
 ![Code Grade](https://api.codiga.io/project/29918/status/svg)
 ![cppcheck-action](https://github.com/PavanKummarikuntla/M1_Game_Bookcricket/actions/workflows/cppcheck.yml/badge.svg)
+[![Unit testing](https://github.com/PavanKummarikuntla/M1_Game_Bookcricket/actions/workflows/unit-test.yml/badge.svg)](https://github.com/PavanKummarikuntla/M1_Game_Bookcricket/actions/workflows/unit-test.yml)
 ## Folder Structure
 Folder                   | Description
 -------------------------| -----------------------------------------
