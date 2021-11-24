@@ -12,6 +12,8 @@ MINI PROJECT ON BOOK_CRICKET
 ![cppcheck-action](https://github.com/PavanKummarikuntla/M1_Game_Bookcricket/actions/workflows/cppcheck.yml/badge.svg)
 [![Unit testing](https://github.com/PavanKummarikuntla/M1_Game_Bookcricket/actions/workflows/unit-test.yml/badge.svg)](https://github.com/PavanKummarikuntla/M1_Game_Bookcricket/actions/workflows/unit-test.yml)
 [![C/C++ CI](https://github.com/PavanKummarikuntla/M1_Game_Bookcricket/actions/workflows/c_build.yml/badge.svg)](https://github.com/PavanKummarikuntla/M1_Game_Bookcricket/actions/workflows/c_build.yml)
+[![Valgrind](https://github.com/PavanKummarikuntla/M1_Game_Bookcricket/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/PavanKummarikuntla/M1_Game_Bookcricket/actions/workflows/Valgrind.yml)
+
 ## Folder Structure
 Folder                   | Description
 -------------------------| -----------------------------------------
