@@ -13,6 +13,7 @@ MINI PROJECT ON BOOK_CRICKET
 [![Unit testing](https://github.com/PavanKummarikuntla/M1_Game_Bookcricket/actions/workflows/unit-test.yml/badge.svg)](https://github.com/PavanKummarikuntla/M1_Game_Bookcricket/actions/workflows/unit-test.yml)
 [![C/C++ CI](https://github.com/PavanKummarikuntla/M1_Game_Bookcricket/actions/workflows/c_build.yml/badge.svg)](https://github.com/PavanKummarikuntla/M1_Game_Bookcricket/actions/workflows/c_build.yml)
 [![Valgrind](https://github.com/PavanKummarikuntla/M1_Game_Bookcricket/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/PavanKummarikuntla/M1_Game_Bookcricket/actions/workflows/Valgrind.yml)
+[![Contribution Check - Git Inspector](https://github.com/PavanKummarikuntla/M1_Game_Bookcricket/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/PavanKummarikuntla/M1_Game_Bookcricket/actions/workflows/gitinspector.yml)
 
 ## Folder Structure
 Folder                   | Description
